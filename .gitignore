@@ -31,3 +31,6 @@
 *.out
 *.app
 fieris_quest
+
+# VS Code Ignore
+**/.vscode
